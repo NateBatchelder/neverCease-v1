@@ -70,12 +70,15 @@ p {
 }
 
 .footer {
-    padding: 30px;
+    padding: 1%;
+    color: #fdf4e3;
+    background-color: #B7D9B1;
     clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
     text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
 }
 
 .footer h2 {
-    
+    font-size: 20px;
+     
 }
