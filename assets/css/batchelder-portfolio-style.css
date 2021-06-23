@@ -79,10 +79,46 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-.work img,
-.fullstack img {
-    max-height: 200px;
+
+.never-cease,
+.work,
+.projects {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #9ea0a1;
+    color: #fdf4e1;
 }
+
+.never-cease h2,
+.work h2,
+.projects h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.h3 {
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+
+.never-cease img,
+.work img,
+.projects img {
+    max-height: 100px;
+}
+
+#project1 img {
+    max-height: 100px;
+}
+
+#project2 img,
+#project3 img{
+    max-height: 80px;
+}
+
 .contact {
     margin-right: 20px;
     padding: 20px;
