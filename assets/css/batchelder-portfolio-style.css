@@ -61,10 +61,10 @@ p {
 }
 
 .landing-image {
-    height:800px;
+    height:200px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url(".placeholder");
+    background-image: url("../images/senic-panorama.jpeg");
     background-size: cover;
     background-position: center;
 }
