@@ -83,6 +83,46 @@ p {
 .fullstack img {
     max-height: 200px;
 }
+.contact {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #B7D9B1;
+}
+
+.contact-email,
+.contact-phone,
+.contact-github {
+    margin-bottom: 32px;
+    color: black
+}
+
+.contact-email h3,
+.contact-phone h3,
+.contact-github h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.contact img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.contact-email img,
+.contact-phone img,
+.contact-github img {
+    display: block;
+    margin: 10px auto;
+    max-width: 75px;
+    max-height: 75px;
+}
 
 .footer {
     padding: 1%;
